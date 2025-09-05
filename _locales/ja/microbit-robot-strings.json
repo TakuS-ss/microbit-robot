@@ -1,9 +1,9 @@
 {
     "{id:group}Robot": "ロボット",
-    "{id:group}Motors": "モーター",
-    "{id:group}Accessories": "アクセサリー",
-    "{id:group}Lines": "ライン",
-    "{id:group}Obstacles": "障害物",
+    "{id:group}Motors": "モータ",
+    "{id:group}Accessories": "アクセサリ",
+    "{id:group}Lines": "ラインセンサ",
+    "{id:group}Obstacles": "障害物センサ",
     "{id:group}Configuration": "設定",
     "robot.motorSteer|block": "ロボットモーターの制御　角度 $turnRatio 速度 $speed \\% ||  $duration 秒間",
     "robot.motorTank|block": "ロボット回転　左速度 $left 　右速度　\\% $right \\% || $duration 秒間",
